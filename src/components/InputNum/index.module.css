@@ -1,0 +1,36 @@
+.inputContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.inputBox{
+    margin: 1rem;
+}
+
+.button{
+    margin: .5rem;
+}
+
+.copiedButton{
+    margin: .5rem;
+    color: black;
+    background-color: rgba(255, 204, 14, 0.87);;
+}
+
+.copiedButton:focus{
+    outline: none;
+}
+
+.resetButton{
+    margin:.5rem;
+}
+
+.inputField{
+    height: 2rem;
+    width: auto;
+    padding: .5rem;
+    border: none;
+    border-radius: 1rem;
+    color: rgba(255, 204, 14, 0.87);
+    font-size: 1rem;
+}
