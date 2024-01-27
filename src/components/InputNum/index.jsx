@@ -9,7 +9,7 @@ import {LuCopyCheck} from "react-icons/lu";
 const InputNum = () => {
 
     const [showContentPassBtn, setShowContentPassBtn] = useState(true)
-    const [input, setInput] = useState(0)
+    const [input, setInput] = useState(12)
     const [buttonValue, setButtonValue] = useState("")
     const [messageInput, setMessageInput] = useState(true)
     const [defautPassSize, setDefaultPassSize] = useState(true)
@@ -59,7 +59,7 @@ const InputNum = () => {
                 <>
                     <div className={cssStyle.inputBox}>
                         <label htmlFor="inputNum"></label>
-                        <input className={cssStyle.inputField} type="number" id="inputNum" min={0} value={input}
+                        <input className={cssStyle.inputField} type="number" id="inputNum" min={1} value={input}
                                onChange={(ev) => setInput(ev.target.value)}/>
                     </div>
                     <button disabled={input === 0}
