@@ -77,5 +77,5 @@ os arquivos principais do projeto bem como diversos outros arquivos de configura
 - #### Email:
   - [yellowdevbox@protonmail.com](mailto:yellowdevbox@protonmail.com)
 - #### Linkedin:
-  - [Henrique Lima](https://www.linkedin.com/in/henrique-duarte-de-oliveira-lima-9ba728203/)
+  - [Henrique Lima](www.linkedin.com/in/henrique-duarte-de-oliveira-lima-9ba728203)
 
