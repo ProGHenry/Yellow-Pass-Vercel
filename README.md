@@ -75,7 +75,7 @@ os arquivos principais do projeto bem como diversos outros arquivos de configura
 
 ### 7. CONTATO:
 - #### Email:
-  - [yellowdevbox@protonmail.com](mailto:yellowdevbox@protonmail.com)
+  - [Yellow Suport](mailto:yellowsuport.crux924@passmail.net)
 - #### Linkedin:
   - [Henrique Lima](https://www.linkedin.com/in/henrique-duarte-de-oliveira-lima-9ba728203)
 
